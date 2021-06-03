@@ -11,12 +11,12 @@ As funções não são explicadas por aqui na maioria das vezes, há somente alg
 
 ### Requisitos (fora o OS e hardware)
 
-* [IntelliJ IDEA](www.jetbrains.com/idea/download/) - IDE utilizada
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) - IDE utilizada
 
 ou qualquer outro framework que aceite Kotlin
 
 ### Outro
-[Meu site pessoal](ironiawn.com.br)
+[Meu site pessoal](https://ironiawn.com.br)
 
 Ps: Possuo projetos aqui no [Github](githut.com/Ironiawn) que são feitos em Kotlin e outros em C# também, viu?
 Ps2: É básico, mas com as ideias que tenho nos projetos funcionam! :)
