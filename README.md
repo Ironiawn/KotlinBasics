@@ -3,7 +3,11 @@ Basics of modern programming with Kotlin (Portuguese)
 
 ## Iniciando
 Neste projeto serão inclusos os fundamentos de Kotlin! :)
+
 Ao longo dos dias tentarei ao máximo ir atualizando com as funções da linguagem e "cositas más" que encontrarei por ai durante os estudos.
+
+## Observação
+As funções não são explicadas por aqui na maioria das vezes, há somente alguns comentários dentro dos scripts!
 
 ### Requisitos (fora o OS e hardware)
 
