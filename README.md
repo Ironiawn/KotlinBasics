@@ -18,5 +18,5 @@ ou qualquer outro framework que aceite Kotlin
 ### Outro
 [Meu site pessoal](https://ironiawn.com.br)
 
-Ps: Possuo projetos aqui no [Github](https://githut.com/Ironiawn) que são feitos em Kotlin e outros em C# também, viu?
+Ps: Possuo projetos aqui no [Github](https://github.com/Ironiawn) que são feitos em Kotlin e outros em C# também, viu?
 Ps2: É básico, mas com as ideias que tenho nos projetos funcionam! :)
